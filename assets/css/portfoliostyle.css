@@ -31,7 +31,7 @@ div{
 	background-color:gray;
 	width:100%;
 	position:relative;
-	height: 650px;
+	height: 740px;
 	margin: 0 auto;
 	bottom: 59px;
 	border-top: 10px;
@@ -51,15 +51,6 @@ h3{
 	padding-top: 20px;
 }
 
-#imageA{
-	width: 150px;
-	height: 150px;
-	float: left;
-	margin: 20px;
-	margin-top: 8px;
-	margin-bottom: 8px;
-	margin-left: 8px;
-}
 
 #line{
 	width: 96%;
@@ -80,9 +71,9 @@ h3{
 	position:absolute;
 	background-color: white;
 	width: 48%;
-	height: 415px;
-	bottom: 143px;
-	right: 510px;
+	height: 660px;
+	bottom: 2px;
+	right: 511px;
 	padding: 20px;
 }
 
@@ -91,7 +82,7 @@ h3{
 	background-color: white;
 	width: 20%;
 	height: 200px;
-	bottom: 397px;
+	bottom: 501px;
 	right: 203px;
 	padding-left:10px;
 }
@@ -113,22 +104,45 @@ h3{
 	text-align: left;
 }
 
-#image{
-	width: 50px;
-	height: 50px;
- 	padding-left: 27px; 
+#imageA{
+	width: 275px;
+	height: 150px;
+	position: absolute;
+	left: 32px;
+	top: 128px;
+ 	
 }
 
-#image2{
-	width: 50px;
-	height: 50px;
- 	padding-left: 22px; 
+#imageB{
+	width: 275px;
+	height: 150px;
+ 	position: absolute;
+ 	left: 350px;
+ 	top: 128px;
 }
 
-#image3{
-	width: 50px;
-	height: 50px;
- 	padding-left:22px;
+#imageC{
+	width: 275px;
+	height: 150px;
+	position: absolute;
+	top: 340px;
+	left: 32px;
+}
+
+#imageD{
+	width: 275px;
+	height: 150px;
+	position: absolute;
+	top: 340px;
+	left: 350px;
+}
+
+#imageE{
+	width: 275px;
+	height: 150px;
+	position: absolute;
+	top: 549px;
+	left: 32px;
 }
 
 #topLine{
@@ -147,17 +161,22 @@ h3{
 	top:561px;
 }
 
-#botLine{
-	position:absolute;
-	height:5px;
-	width: 100%;
-	background-color: black;
-	top:545px;
+#image{
+	width: 50px;
+	height: 50px;
+ 	padding-left: 27px; 
 }
 
-#Cop{
-	text-align: center;
-	padding-top: 30px;
+#image2{
+	width: 50px;
+	height: 50px;
+ 	padding-left: 22px; 
+}
+
+#image3{
+	width: 50px;
+	height: 50px;
+ 	padding-left:22px;
 }
 
 
